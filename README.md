@@ -5,7 +5,7 @@ A responsive restaurant website built for **VERDE**, a fictional farm-to-table, 
 **Live site:** https://musawir-ali.github.io/VERDE-Restaurant/
 
 ## Preview
-![NovaAI Preview](images/preview.png)
+![VERDE Preview](images/preview.png)
 
 ## Overview
 
