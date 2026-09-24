@@ -509,6 +509,18 @@ ul li {
     background: transparent;
 }
 
+.reserve-success {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.reserve-success h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 28px;
+    color: #1f3d2b;
+    margin-bottom: 0.75rem;
+}
+
 /* footer bottum */
 
 .footer-bottum {
